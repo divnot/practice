@@ -4,6 +4,7 @@ function Footer(){
     return(
         <>
         <h1>its my first footer </h1>
+        <h1>tiger</h1>
         
         
         </>
