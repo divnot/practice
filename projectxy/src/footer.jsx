@@ -5,6 +5,7 @@ function Footer(){
         <>
         <h1>its my first footer </h1>
         <h1>tiger</h1>
+        <h3>change pushed using master</h3>
         
         
         </>
